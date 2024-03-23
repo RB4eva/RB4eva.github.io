@@ -1,0 +1,97 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-image: url('images/bg3.jpg');
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.5); 
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 60px; /* Adjust the font size for h1 */
+    text-align: center;
+}
+
+.word {
+    color: darkgreen;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+header p {
+    font-size: 30px; /* Adjust the font size for p */
+    text-align: center;
+}
+
+.description {
+    background-size: cover;
+    padding: 40px;
+    margin: 20px 0;
+    color: white;
+    text-align: center;
+}
+
+.description h2 {
+    font-size: 40px; /* Adjust the font size for h1 */
+}
+
+.description h3 {
+    font-size: 28px; /* Adjust the font size for h1 */
+}
+
+
+.description p {
+    font-size: 17px; /* Adjust the font size for p */
+}
+
+.team-section h2 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.team-section {
+    max-width: 600px; /* Adjust this value based on your design */
+    margin: 0 auto; /* Center the container horizontally */
+    text-align: center; /* Center the content inside the container */
+}
+
+.team-section h3 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.team-section p {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+
+.team-section img {
+    max-width: 100%; /* Ensure images don't exceed their container */
+    height: 100px; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: Add rounded corners to the images */
+    margin: 0px auto; /* Center the image horizontally and add space top/bottom */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /*display: none; /* Initially hide the footer */
+}
+
+
