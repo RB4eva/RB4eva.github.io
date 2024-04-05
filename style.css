@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-image:  url('images/b7.jpeg');
+    background-image:  url('images/b1.jpeg');
     background-size: cover;
     color: white;
     padding: 20px;
@@ -30,7 +30,7 @@ header p {
 }
 
 .description {
-    background-image:  url('images/b7.jpeg');
+    background-image:  url('images/b72.jpeg');
     background-size: cover;
     background-size: cover;
     padding: 40px;
@@ -59,7 +59,7 @@ header p {
 }
 
 .team-section {
-    background-image:  url('images/b7.jpeg');
+    background-image:  url('images/b42.jpeg');
     background-size: cover;
     max-width: 600px; /* Adjust this value based on your design */
     margin: 0 auto; /* Center the container horizontally */
