@@ -35,7 +35,7 @@ header p {
     background-size: cover;
     padding: 40px;
     margin: 20px 0;
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -54,7 +54,7 @@ header p {
 
 .team-section h2 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 40px;
 }
 
@@ -68,13 +68,13 @@ header p {
 
 .team-section h3 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 30px;
 }
 
 .team-section p {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 17px;
 }
 
